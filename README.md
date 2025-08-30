@@ -40,13 +40,13 @@ java patternproject
 4. ---------------------------------------------------------------------------------------------------------------------------------
 5. 📸 Example Output in 3D
 ---------- Square Pattern ---------
-X X X X X X
-X X       X X
-X   X X X X X X 
-X   X     X   X
-X X X X X X   X
-  X X       X X
-    X X X X X X
+X X X X X X                                                                                                                                                                          
+X X       X X                                                                                                                                                                        
+X   X X X X X X                                                                                                                                                                      
+X   X     X   X                                                                                                                                                                      
+X X X X X X   X                                                                                                                                                                      
+  X X       X X                                                                                                                                                                      
+    X X X X X X                                                                                                                                                                       
 ------------------------------------------------------------------------------------------------------------------------------------
 🎯 Learning Outcomes
 
