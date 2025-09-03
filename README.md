@@ -39,14 +39,14 @@ java patternproject
 3. Enter your choice (1–20) to generate the desired pattern.
 4. ---------------------------------------------------------------------------------------------------------------------------------
 5. 📸 Example Output in 3D
----------- Square Pattern ---------
+---------- Square Pattern ---------                                                                                                                                                  
 X X X X X X                                                                                                                                                                          
 X X       X X                                                                                                                                                                        
 X   X X X X X X                                                                                                                                                                      
-X   X     X   X                                                                                                                                                                      
+X  X      X   X                                                                                                                                                                      
 X X X X X X   X                                                                                                                                                                      
   X X       X X                                                                                                                                                                      
-    X X X X X X                                                                                                                                                                       
+    X X X X X X                                                                                                                                                                                                                                                                                                         
 ------------------------------------------------------------------------------------------------------------------------------------
 🎯 Learning Outcomes
 
